@@ -5,7 +5,7 @@ This repository contains a collection of Python mini-projects built during my tr
 ## 🗂️ Projects
 
 ### 🐱 [`my_cat`](./my_cat/)
-Mimics the Unix `cat` command — reads and prints file contents via command-line input.
+Mimics the Unix `cat` command: it reads and prints file contents via command-line input.
 
 ### 🌐 [`my_first_scraper`](./my_first_scraper/)
 Simple HTML scraper using Python's `requests` and `BeautifulSoup` to fetch and parse website content.
@@ -31,4 +31,4 @@ Converts integers to Roman numerals using rule-based character mapping.
 
 ## 📜 License
 
-MIT License – see [LICENSE](./LICENSE) for details.
+MIT License. See [LICENSE](./LICENSE) for details.
